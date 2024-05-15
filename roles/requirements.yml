@@ -1,0 +1,5 @@
+---
+- name: fullctl.routeserver
+  scm: git
+  src: git@github.com:fullctl/ansible-role-routeserver.git
+  version: main
