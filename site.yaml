@@ -1,5 +1,5 @@
 ---
-- name: Configure Netbox Instances
+- name: Configure Routeserver Instances
   hosts: rs
   become: true
   roles:
